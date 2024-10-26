@@ -1,50 +1,54 @@
 <!DOCTYPE html>
 <html lang="pt">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>A teoria do big bang</title>
-  </head>
-  <body>
+
+    <style>
+        img {
+            margin: 50px auto;
+            border: 50px rgb(255, 242, 0) solid;
+            border-width: 7px;
+            width: 500px;
+        }
+
+        #galaxia1 {
+            border: groove 15px;
+        }
+
+        #galaxia2 {
+            border-color: rgb(255, 255, 255);
+        }
+
+        body {
+            background-color: gray;
+        }
+    </style>
+</head>
+
+<body>
     <h1 style="text-align: center">O UNIVERSO</h1>
     <div style="text-align: center">
-      <img
-        src="https://img.iol.pt/image/id/64a73a75d34e72171a0aebca/1024.jpg"
-        alt="foto do espaço"
-        width="350"
-        style="
-          margin: 50px auto;
-          border: 50px black;
-          border-style: groove;
-          border-width: 7px;
-          width: 500px;
-        "
-      />
+        <img id="galaxia1" src="https://img.iol.pt/image/id/64a73a75d34e72171a0aebca/1024.jpg" alt="foto do espaço"
+            width="350" />
     </div>
-    <h2 style="background-color: darkgoldenrod">
-      O universo é o vasto espaço que contém tudo o que conhecemos, desde
-      partículas subatômicas até galáxias.
-    </h2>
-    <p style="background-color: gray">
-      surgiu há cerca de 13,8 bilhões de anos com o Big Bang e continua a se
-      expandir. Estudar o universo nos ajuda a compreender não apenas sua origem
-      e evolução, mas também o nosso lugar nele. Essa exploração envolve
-      diversas áreas da ciência, como astronomia e física, e é uma das maiores
-      aventuras da humanidade.
-    </p>
-    <img
-      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcTuS6MWj09ogswc_GHxTYTYi-2hfaPxg5DzBnOO5xiIv0aLCYAgOtCHTBg84PrPeF-ycCbwgY2LVkpkMLagsZIiQZJaYdY83YKfhXZMZrzPhPh_tQwbbkqnKIadE4XCVDKzTgllthGBNa/s320/via+lactea-sistema+solar.jpg"
-      alt="foto do nosso universo"
-      width="350px"
-    />
-    <div>
-      <p>
-        A Via Láctea é a galáxia onde está o nosso Sistema Solar. Ela é em forma
-        de espiral e tem cerca de 100.000 anos-luz de largura. Dentro dela,
-        existem entre 100 e 400 bilhões de estrelas. O centro da galáxia contém
-        um buraco negro supermassivo chamado Sagittarius A*. À noite, podemos
-        ver uma faixa brilhante de estrelas no céu, que é a nossa galáxia.
-      </p>
+    <h2 style="background-color: darkgoldenrod"> O universo é o vasto espaço que contém tudo o que conhecemos, desde
+        partículas subatômicas até galáxias. </h2>
+    <p style="background-color: gray"> surgiu há cerca de 13,8 bilhões de anos com o Big Bang e continua a se expandir.
+        Estudar o universo nos ajuda a compreender não apenas sua origem e evolução, mas também o nosso lugar nele. Essa
+        exploração envolve diversas áreas da ciência, como astronomia e física, e é uma das maiores aventuras da
+        humanidade. </p> <img id="galaxia2"
+        src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcTuS6MWj09ogswc_GHxTYTYi-2hfaPxg5DzBnOO5xiIv0aLCYAgOtCHTBg84PrPeF-ycCbwgY2LVkpkMLagsZIiQZJaYdY83YKfhXZMZrzPhPh_tQwbbkqnKIadE4XCVDKzTgllthGBNa/s320/via+lactea-sistema+solar.jpg"
+        alt="foto do nosso universo" width="350px" />
+    <div style="background-color:gray;">
+        <p> A Via Láctea é a galáxia onde está o nosso Sistema Solar. Ela é em forma de espiral e tem cerca de 100.000
+            anos-luz de largura. Dentro dela, existem entre 100 e 400 bilhões de estrelas. O centro da galáxia contém um
+            buraco negro supermassivo chamado Sagittarius A*. À noite, podemos ver uma faixa brilhante de estrelas no
+            céu, que é a nossa galáxia. </p>
     </div>
-  </body>
+</body>
+
+
 </html>
