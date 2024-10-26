@@ -5,27 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>A teoria do big bang</title>
-
-    <style>
-        img {
-            margin: 50px auto;
-            border: 50px rgb(255, 242, 0) solid;
-            border-width: 7px;
-            width: 500px;
-        }
-
-        #galaxia1 {
-            border: groove 15px;
-        }
-
-        #galaxia2 {
-            border-color: rgb(255, 255, 255);
-        }
-
-        body {
-            background-color: gray;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -42,7 +22,7 @@
         humanidade. </p> <img id="galaxia2"
         src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcTuS6MWj09ogswc_GHxTYTYi-2hfaPxg5DzBnOO5xiIv0aLCYAgOtCHTBg84PrPeF-ycCbwgY2LVkpkMLagsZIiQZJaYdY83YKfhXZMZrzPhPh_tQwbbkqnKIadE4XCVDKzTgllthGBNa/s320/via+lactea-sistema+solar.jpg"
         alt="foto do nosso universo" width="350px" />
-    <div style="background-color:gray;">
+    <div style="background-color:rgb(184, 182, 182);">
         <p> A Via Láctea é a galáxia onde está o nosso Sistema Solar. Ela é em forma de espiral e tem cerca de 100.000
             anos-luz de largura. Dentro dela, existem entre 100 e 400 bilhões de estrelas. O centro da galáxia contém um
             buraco negro supermassivo chamado Sagittarius A*. À noite, podemos ver uma faixa brilhante de estrelas no
