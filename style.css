@@ -1,0 +1,18 @@
+img {
+    margin: 50px auto;
+    border: 50px rgb(255, 242, 0) solid;
+    border-width: 7px;
+    width: 500px;
+}
+
+#galaxia1 {
+    border: groove 15px;
+}
+
+#galaxia_via_lactea {
+    border-color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(182, 173, 173);
+}
